@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
-
+    alerta(){
+      alert("Estoy adentro");
+    }
 }
